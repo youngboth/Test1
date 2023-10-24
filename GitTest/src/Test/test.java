@@ -15,8 +15,8 @@ public class test {
 		System.out.println("해보자.");
 
 		System.out.println("되겠지?");
-		System.out.println("되겠지?");
 		
+		System.out.println("이게 맞니");
 	}
 
 }
