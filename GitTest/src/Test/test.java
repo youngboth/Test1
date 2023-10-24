@@ -24,7 +24,7 @@ public class test {
 		
 		System.out.println("됐니");
 		
-		System.out.println("되니");
+		System.out.println("된다");
 		
 	}
 
