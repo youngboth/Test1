@@ -22,6 +22,8 @@ public class test {
 		
 		System.out.println("과연 얼마나 걸릴까");
 		
+		System.out.println("됐니");
+		
 		
 	}
 
