@@ -19,6 +19,10 @@ public class test {
 		System.out.println("되겠지123");
 		
 		System.out.println("이게 맞니");
+		
+		System.out.println("과연 얼마나 걸릴까");
+		
+		
 	}
 
 }
