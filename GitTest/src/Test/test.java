@@ -33,6 +33,8 @@ public class test {
 		System.out.println(".");
 		
 		System.out.println("머지");
+		
+		System.out.println("되니?");
 	}
 
 }
