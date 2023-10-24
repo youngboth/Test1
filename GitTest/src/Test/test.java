@@ -40,6 +40,7 @@ public class test {
 		System.out.println("봐보자?");
 		System.out.println("봐보자?");
 		System.out.println("봐보자?12");
+		System.out.println("봐보자?31");
 	}
 
 }
