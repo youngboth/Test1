@@ -35,6 +35,9 @@ public class test {
 		System.out.println("머지");
 		
 		System.out.println("되니?");
+		
+		
+		System.out.println("봐보자?");
 	}
 
 }
