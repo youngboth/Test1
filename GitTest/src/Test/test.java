@@ -16,7 +16,6 @@ public class test {
 
 		System.out.println("되겠지?");
 		
-		System.out.println("다시 시작");
 	}
 
 }
