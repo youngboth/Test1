@@ -28,6 +28,8 @@ public class test {
 		
 		System.out.println("된다");
 		
+		System.out.println("....");
+		
 	}
 
 }
